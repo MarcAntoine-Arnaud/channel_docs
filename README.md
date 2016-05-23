@@ -1,6 +1,6 @@
-# ChannelDoc
+# Channel Doc
 
-**TODO: Add description**
+Automatic documentation tool for Phoenix's Channel
 
 ## Installation
 
@@ -17,4 +17,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:channel_doc]]
         end
-
