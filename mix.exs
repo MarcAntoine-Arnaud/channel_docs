@@ -1,8 +1,8 @@
-defmodule ChannelDoc.Mixfile do
+defmodule ChannelDocs.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :channel_doc,
+    [app: :channel_docs,
      version: "0.0.1",
      elixir: "~> 1.2",
      build_embedded: Mix.env == :prod,
