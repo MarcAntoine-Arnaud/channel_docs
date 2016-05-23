@@ -1,0 +1,3 @@
+defmodule ChannelDoc do
+	
+end
